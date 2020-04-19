@@ -1,0 +1,15 @@
+age,income,student,cerdit_rat,class
+youth,high,no,fair,no
+youth,high,no,excel,no
+middle,high,no,fair,yes
+senior,medium,no,fair,yes
+senior,low,yes,fair,yes
+senior,low,yes,excel,no
+middle,low,yes,excel,yes
+youth,medium,no,fair,no
+youth,low,yes,fair,yes
+senior,medium,yes,fair,yes
+youth,medium,yes,excel,yes
+middle,medium,no,excel,yes
+middle,high,yes,fair,yes
+senior,medium,no,excel,no
